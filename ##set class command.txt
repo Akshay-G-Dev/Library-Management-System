@@ -1,0 +1,1 @@
+set CLASSPATH=%CLASSPATH%;G:\Akshay\JAVA\Library_Management_System\Application\rs2xml.jar;G:\Akshay\JAVA\Library_Management_System\Application\mysql-connector.jar; 
